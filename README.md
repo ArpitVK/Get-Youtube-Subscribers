@@ -17,17 +17,16 @@ git clone https://github.com/ArpitVK/Get-Youtube-Subscribers.git
 
 ```bash
 npm install
-cd src
 ```
 3. Create the database (Make sure MongoDB is installed on your local machine):
 
 ```bash
-node createDatabase.js
+node src/createDatabase.js
 ```
 4. Start the server:
 
 ```bash
-node index.js
+node src/index.js
 ```
  The server will be running at http://localhost:3000.
 
