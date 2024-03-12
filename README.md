@@ -1,6 +1,6 @@
 # Get-Youtube-Subscribers
 
-This project is a simple Node.js application for managing subscribers. It includes functionality to create a database, retrieve a list of subscribers, retrieve a list of subscriber names, and retrieve details of a specific subscriber by ID.
+This project is a simple Node.js application for managing subscribers. It includes functionality to  retrieve a list of subscribers, retrieve a list of subscriber names, and retrieve details of a specific subscriber by ID.
 
 ## Prerequisites
 Before running the application, ensure that you have the following installed:
