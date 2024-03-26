@@ -8,7 +8,7 @@ Before running the application, ensure that you have the following installed:
 - Node.js
 - MongoDB (for local database setup)
 ## Getting Started
-1.Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/ArpitVK/Get-Youtube-Subscribers.git
